@@ -3,5 +3,5 @@
 
 Para rodar esse arquivo, por gentileza digite:
 ```
-npm install react
+node app.js
 ```
